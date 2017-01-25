@@ -25,7 +25,7 @@
 [Glide2](https://github.com/bumptech/glide) - Image loading and caching library  
 [GraphView](http://www.android-graphview.org/) - Open source graph plotting library  
 [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful Android chart view  
-[Picasso](http://square.github.io/picasso/) - Image downloading/caching library  
+[Picasso](http://square.github.io/picasso/) - Image downloading/caching library
 #####Color resource
 [Paletton](http://paletton.com/)  
 [Material Palette](https://www.materialpalette.com/)
@@ -44,7 +44,7 @@
 
 ####Networking Libraries
 [GSON1](https://github.com/google/gson) - Convert to JSON and back easily  
-[JSON Viewer]([http://jsonviewer.stack.hu/) - Undestanding the structure of a json response  
+[JSON Viewer](http://jsonviewer.stack.hu/) - Undestanding the structure of a json response  
 [OkHttp](http://square.github.io/okhttp/) - HTTP Client for Android  
 [Retrofit](http://square.github.io/retrofit/) - Type safe HTTP Client for Android
 
