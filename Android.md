@@ -1,6 +1,6 @@
 # Android Resource Collection
 Useful Links
-======
+------
 #### Activities
 [Starting a Second Activity](https://developer.android.com/training/basics/firstapp/starting-activity.html) - Shows you how to add another screen to your app.  
 [Intents and Intent Filters](https://developer.android.com/guide/components/intents-filters.html)
@@ -36,8 +36,9 @@ Useful Links
 [Centering the TextView's text vertically in relation to its drawableLeft image](http://stackoverflow.com/questions/3337371/androiddrawableleft-margin-and-or-padding)  
 [How to Make Text Fade in and Out](http://stackoverflow.com/questions/8627211/how-to-make-text-fade-in-and-out-in-android) - Animating a fade effect on a TextView  
 [Use AnimationListener to Trigger Events when Animation Finishes](http://stackoverflow.com/questions/3298330/android-alpha-animation-fadein-fadeout-with-delays/7067583#7067583) - Trigger another animation or perform other actions when an animation finishes. Can be used to create animation loops.
+
 Libraries
-======
+------
 ### Main Researc
 [Android Arsenal](https://android-arsenal.com/) - Android developer portal with tools, libraries, and apps
 #### Library Compilations
@@ -79,7 +80,7 @@ Libraries
 [Teleport](https://github.com/Mariuxtheone/Teleport)
 
 Tools
-======
+------
 #### Material Resource
 [Material Guidelines](https://material.io/guidelines/) - Material Design Guidelines  
 [Andriod Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - Essential site for generating themes and assets  
