@@ -11,7 +11,7 @@
 [Otto Event Bus](http://square.github.io/otto/) - Easily communicate with different parts of your app
 
 ####Convenience
-[Butter Knife2](http://jakewharton.github.io/butterknife/) - Field and method binding for Android Views
+[Butter Knife2](http://jakewharton.github.io/butterknife/) - Field and method binding for Android Views  
 [Postman](https://github.com/Workday/postman) - Library for implementing Parcelable via annotations
 [RetroLambda](https://github.com/evant/gradle-retrolambda) - Backport of lambda expressions to Java 6 and 7
 
