@@ -8,6 +8,7 @@
 
 ####Communication Libraries
 [Green Robot Event Bus](https://github.com/greenrobot/EventBus) - Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc
+
 [Otto Event Bus](http://square.github.io/otto/) - Easily communicate with different parts of your app
 
 ####Convenience
