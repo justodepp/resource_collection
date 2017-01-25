@@ -25,9 +25,9 @@
 [GraphView](http://www.android-graphview.org/) - Open source graph plotting library
 [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful Android chart view
 [Picasso](http://square.github.io/picasso/) - Image downloading/caching library
-    #####Color resource
-    [Paletton](http://paletton.com/)
-    [Material Palette](https://www.materialpalette.com/)
+#####Color resource
+[Paletton](http://paletton.com/)
+[Material Palette](https://www.materialpalette.com/)
 
 ####Animation Libraries
 [HTextView](https://github.com/hanks-zyh/HTextView) - Animation effects to TextView
@@ -35,6 +35,7 @@
 ####Widget Libraries
 [Carousel Layout Manager](https://github.com/Azoft/CarouselLayoutManager) - Android Carousel LayoutManager for RecyclerView
 [Card Library](https://github.com/gabrielemariotti/cardslib/) - Android Library to build a UI Card
+⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
 
 ####Library Compilations
 [Awesome Android UI2](https://github.com/wasabeef/awesome-android-ui) - Collection of awesome Android UI libraries!
