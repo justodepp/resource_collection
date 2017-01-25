@@ -20,6 +20,7 @@
 [Realm2](https://realm.io/) - Mobile platform and a replacement for SQLite & Core Data
 [Schematic](https://github.com/SimonVT/schematic) - Generate content provider
 
+
 ####Graphic Libraries
 [Glide2](https://github.com/bumptech/glide) - Image loading and caching library
 [GraphView](http://www.android-graphview.org/) - Open source graph plotting library
@@ -35,7 +36,6 @@
 ####Widget Libraries
 [Carousel Layout Manager](https://github.com/Azoft/CarouselLayoutManager) - Android Carousel LayoutManager for RecyclerView
 [Card Library](https://github.com/gabrielemariotti/cardslib/) - Android Library to build a UI Card
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
 
 ####Library Compilations
 [Awesome Android UI2](https://github.com/wasabeef/awesome-android-ui) - Collection of awesome Android UI libraries!
