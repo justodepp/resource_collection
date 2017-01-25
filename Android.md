@@ -2,39 +2,39 @@
 Useful Links
 ======
 #### Activities
-[Starting a Second Activity](https://developer.android.com/training/basics/firstapp/starting-activity.html) - Shows you how to add another screen to your app.
+[Starting a Second Activity](https://developer.android.com/training/basics/firstapp/starting-activity.html) - Shows you how to add another screen to your app.  
 [Intents and Intent Filters](https://developer.android.com/guide/components/intents-filters.html)
 #### Layout
 [Handling Scrolls With CoordinatorLayout](https://guides.codepath.com/android/Handling-Scrolls-with-CoordinatorLayout)
 #### Styles
-[Material Design Guidelines](https://material.io/guidelines/)
-[Material Design Primer](https://guides.codepath.com/android/material-design-primer)
-[Design Support Library Setup](https://guides.codepath.com/android/Design-Support-Library)
+[Material Design Guidelines](https://material.io/guidelines/)  
+[Material Design Primer](https://guides.codepath.com/android/material-design-primer)  
+[Design Support Library Setup](https://guides.codepath.com/android/Design-Support-Library)  
 [Styles and Inheritance](http://kevinpelgrims.com/blog/2012/06/25/android-development-tips-style-inheritance/)
 #### CardView
-[Getting Started with CardView and RecyclerView on Android](https://code.tutsplus.com/tutorials/getting-started-with-recyclerview-and-cardview-on-android--cms-23465) - Create lists and cards with material design (TutsPlus)
-[Working With CardView and Recycler View](http://www.androidhive.info/2016/05/android-working-with-card-view-and-recycler-view/) - Create lists and cards with material design (AndroidHive)
+[Getting Started with CardView and RecyclerView on Android](https://code.tutsplus.com/tutorials/getting-started-with-recyclerview-and-cardview-on-android--cms-23465) - Create lists and cards with material design (TutsPlus)  
+[Working With CardView and Recycler View](http://www.androidhive.info/2016/05/android-working-with-card-view-and-recycler-view/) - Create lists and cards with material design (AndroidHive)  
 [Creating Lists and Cards](https://developer.android.com/training/material/lists-cards.html) - Create lists and cards with material design (Android Developer guide).
 #### Gradle
-[Gradle User Guide](https://docs.gradle.org/current/userguide/userguide.html) - Official User Guide for Gradle
+[Gradle User Guide](https://docs.gradle.org/current/userguide/userguide.html) - Official User Guide for Gradle  
 [What is Gradle in Android Studio?](http://stackoverflow.com/questions/16754643/what-is-gradle-in-android-studio/24828666#24828666) - Quick explanation on SO explaining what that Gradle thing is
 #### Maps
-[Android Google Maps API](https://developers.google.com/maps/documentation/android-api/start) - Official documentation and guide for Google Maps on Android
+[Android Google Maps API](https://developers.google.com/maps/documentation/android-api/start) - Official documentation and guide for Google Maps on Android  
 [Android Google Maps](https://www.tutorialspoint.com/android/android_google_maps.htm) - Tutorial for using Google Maps on Android apps
 #### RecyclerView
 [RecyclerView with Snapping](http://www.devexchanges.info/2016/09/android-tip-recyclerview-snapping-with.html) - Snap edge of cards to the left of the screen on a horizontal scroll
 #### Strings and Values
-[String Resources](https://developer.android.com/guide/topics/resources/string-resource.html) - Official guide on using string resources in your app
-[So what’s this strings.xml about?](https://discussions.udacity.com/t/so-whats-this-strings-xml-about/213493) - Quick forum post guide to strings.xml by @andrewalexcunningham
-[Formatting Strings](https://developer.android.com/guide/topics/resources/string-resource.html#FormattingAndStyling) - The Developer page explains how to add special characters to your string, or pass variables in
+[String Resources](https://developer.android.com/guide/topics/resources/string-resource.html) - Official guide on using string resources in your app  
+[So what’s this strings.xml about?](https://discussions.udacity.com/t/so-whats-this-strings-xml-about/213493) - Quick forum post guide to strings.xml by @andrewalexcunningham  
+[Formatting Strings](https://developer.android.com/guide/topics/resources/string-resource.html#FormattingAndStyling) - The Developer page explains how to add special characters to your string, or pass variables in  
 [Localize the UI with Translations Editor](https://developer.android.com/studio/write/translations-editor.html) - How to add translations to your app
 #### TextView
-[Autolink](https://developer.android.com/reference/android/widget/TextView.html#attr_android:autoLink) - Turn addresses, phone numbers and more into clickable links
-[How to Make Links in a TextView Clickable](http://stackoverflow.com/questions/2734270/how-do-i-make-links-in-a-textview-clickable) - Adding clickable hyperlinks to a TextView
-[DrawableLeft](https://developer.android.com/reference/android/widget/TextView.html#attr_android:drawableLeft) - Better than using a Layout with an ImageView and a TextView, you can used just a single TextView with the DrawableLeft property.
-[Padding the Drawable](http://stackoverflow.com/questions/3337371/androiddrawableleft-margin-and-or-padding)
-[Centering the TextView's text vertically in relation to its drawableLeft image](http://stackoverflow.com/questions/3337371/androiddrawableleft-margin-and-or-padding)
-[How to Make Text Fade in and Out](http://stackoverflow.com/questions/8627211/how-to-make-text-fade-in-and-out-in-android) - Animating a fade effect on a TextView
+[Autolink](https://developer.android.com/reference/android/widget/TextView.html#attr_android:autoLink) - Turn addresses, phone numbers and more into clickable links  
+[How to Make Links in a TextView Clickable](http://stackoverflow.com/questions/2734270/how-do-i-make-links-in-a-textview-clickable) - Adding clickable hyperlinks to a TextView  
+[DrawableLeft](https://developer.android.com/reference/android/widget/TextView.html#attr_android:drawableLeft) - Better than using a Layout with an ImageView and a TextView, you can used just a single TextView with the DrawableLeft property.  
+[Padding the Drawable](http://stackoverflow.com/questions/3337371/androiddrawableleft-margin-and-or-padding)  
+[Centering the TextView's text vertically in relation to its drawableLeft image](http://stackoverflow.com/questions/3337371/androiddrawableleft-margin-and-or-padding)  
+[How to Make Text Fade in and Out](http://stackoverflow.com/questions/8627211/how-to-make-text-fade-in-and-out-in-android) - Animating a fade effect on a TextView  
 [Use AnimationListener to Trigger Events when Animation Finishes](http://stackoverflow.com/questions/3298330/android-alpha-animation-fadein-fadeout-with-delays/7067583#7067583) - Trigger another animation or perform other actions when an animation finishes. Can be used to create animation loops.
 Libraries
 ======
