@@ -5,7 +5,8 @@ Useful Links
 [Starting a Second Activity](https://developer.android.com/training/basics/firstapp/starting-activity.html) - Shows you how to add another screen to your app.  
 [Intents and Intent Filters](https://developer.android.com/guide/components/intents-filters.html)
 #### Layout
-[Handling Scrolls With CoordinatorLayout](https://guides.codepath.com/android/Handling-Scrolls-with-CoordinatorLayout)
+[Handling Scrolls With CoordinatorLayout](https://guides.codepath.com/android/Handling-Scrolls-with-CoordinatorLayout)  
+[Mastering Coordinator Layout](http://saulmm.github.io/mastering-coordinator)
 #### Styles
 [Material Design Guidelines](https://material.io/guidelines/)  
 [Material Design Primer](https://guides.codepath.com/android/material-design-primer)  
@@ -22,7 +23,9 @@ Useful Links
 [Android Google Maps API](https://developers.google.com/maps/documentation/android-api/start) - Official documentation and guide for Google Maps on Android  
 [Android Google Maps](https://www.tutorialspoint.com/android/android_google_maps.htm) - Tutorial for using Google Maps on Android apps
 #### RecyclerView
-[RecyclerView with Snapping](http://www.devexchanges.info/2016/09/android-tip-recyclerview-snapping-with.html) - Snap edge of cards to the left of the screen on a horizontal scroll
+[RecyclerView with Snapping](http://www.devexchanges.info/2016/09/android-tip-recyclerview-snapping-with.html) - Snap edge of cards to the left of the screen on a horizontal scroll  
+[Horizontal and Staggered RecycleView](http://www.androhub.com/android-staggered-and-horizontal-recyclerview/)  
+[Mastering Complex Lists with the Android RecyclerView](https://www.sitepoint.com/mastering-complex-lists-with-the-android-recyclerview/)
 #### Strings and Values
 [String Resources](https://developer.android.com/guide/topics/resources/string-resource.html) - Official guide on using string resources in your app  
 [So what’s this strings.xml about?](https://discussions.udacity.com/t/so-whats-this-strings-xml-about/213493) - Quick forum post guide to strings.xml by @andrewalexcunningham  
@@ -95,7 +98,8 @@ Tools
 [Paletton](http://paletton.com/) - Resource for choose your color combination  
 [Material Palette](https://www.materialpalette.com/) - Resource for choose your Material color palette  
 [Material UI](https://www.materialui.co/colors) - Material color picker  
-[Adobe Color Wheel](https://color.adobe.com/create/color-wheel/) - Find your colors here!
+[Adobe Color Wheel](https://color.adobe.com/create/color-wheel/) - Find your colors here!  
+[Floreal Color](https://www.design-seeds.com/category/in-nature/flora/)
 #### Prototyping
 [InVision](https://www.invisionapp.com/)  
 [NinjaMock](https://ninjamock.com/)  
