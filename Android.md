@@ -39,6 +39,8 @@ Useful Links
 [Centering the TextView's text vertically in relation to its drawableLeft image](http://stackoverflow.com/questions/3337371/androiddrawableleft-margin-and-or-padding)  
 [How to Make Text Fade in and Out](http://stackoverflow.com/questions/8627211/how-to-make-text-fade-in-and-out-in-android) - Animating a fade effect on a TextView  
 [Use AnimationListener to Trigger Events when Animation Finishes](http://stackoverflow.com/questions/3298330/android-alpha-animation-fadein-fadeout-with-delays/7067583#7067583) - Trigger another animation or perform other actions when an animation finishes. Can be used to create animation loops.
+#### ImageView
+[Android ImageView ScaleType: A Visual Guide](https://robots.thoughtbot.com/android-imageview-scaletype-a-visual-guide)
 
 Libraries
 ------
