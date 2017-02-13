@@ -5,10 +5,10 @@ Useful Links
 [Starting a Second Activity](https://developer.android.com/training/basics/firstapp/starting-activity.html) - Shows you how to add another screen to your app.  
 [Intents and Intent Filters](https://developer.android.com/guide/components/intents-filters.html)
 #### Layout
-[Handling Scrolls With CoordinatorLayout](https://guides.codepath.com/android/Handling-Scrolls-with-CoordinatorLayout)  
+[Handling Scrolls With CoordinatorLayout](https://guides.codepath.com/android/Handling-Scrolls-with-CoordinatorLayout)   
 [Mastering Coordinator Layout](http://saulmm.github.io/mastering-coordinator)
 #### Coordinator Layout
-[Android Design Support Library](https://android-developers.googleblog.com/2015/05/android-design-support-library.html)
+[Android Design Support Library](https://android-developers.googleblog.com/2015/05/android-design-support-library.html)  
 [Using CoordinatorLayout in Android apps](http://www.androidauthority.com/using-coordinatorlayout-android-apps-703720/)
 #### Styles
 [Material Design Guidelines](https://material.io/guidelines/)  
