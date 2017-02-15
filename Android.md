@@ -44,6 +44,10 @@ Useful Links
 [Use AnimationListener to Trigger Events when Animation Finishes](http://stackoverflow.com/questions/3298330/android-alpha-animation-fadein-fadeout-with-delays/7067583#7067583) - Trigger another animation or perform other actions when an animation finishes. Can be used to create animation loops.
 #### ImageView
 [Android ImageView ScaleType: A Visual Guide](https://robots.thoughtbot.com/android-imageview-scaletype-a-visual-guide)
+#### Firebase
+[Firebase](https://firebase.google.com)  
+[Firebase DOC](https://firebase.google.com/docs/android/setup)  
+[Firebase Tag Manager](https://developers.google.com/tag-manager/android/v5/)  
 
 Libraries
 ------
