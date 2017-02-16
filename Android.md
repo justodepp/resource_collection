@@ -53,6 +53,8 @@ Libraries
 ------
 ### Main Researc
 [Android Arsenal](https://android-arsenal.com/) - Android developer portal with tools, libraries, and apps
+#### Group
+[25 new Android Library](https://medium.com/@mmbialas/25-new-android-libraries-which-you-definitely-want-to-try-at-the-beginning-of-2017-45878d5408c0#.lgl6dwymh)
 #### Library Compilations
 [Awesome Android UI](https://github.com/wasabeef/awesome-android-ui) - Collection of awesome Android UI libraries!  
 [Must Have Libraries](https://github.com/codepath/android_guides/wiki/Must-Have-Libraries) - List of libraries from Codepath
