@@ -79,7 +79,8 @@ Libraries
 #### Animation Libraries
 [HTextView](https://github.com/hanks-zyh/HTextView) - Animation effects to TextView
 #### Animated Gif
-[Fresco](http://frescolib.org/docs/index.html) - Animation effects on image, gif and more
+[Fresco](http://frescolib.org/docs/index.html) - Animation effects on image, gif and more  
+[GifDrawable](https://github.com/koral--/android-gif-drawable) - GIF
 #### Widget Libraries
 [Carousel Layout Manager](https://github.com/Azoft/CarouselLayoutManager) - Android Carousel LayoutManager for RecyclerView  
 [Card Library](https://github.com/gabrielemariotti/cardslib/) - Android Library to build a UI Card
