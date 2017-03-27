@@ -14,7 +14,8 @@ Useful Links
 [Material Design Guidelines](https://material.io/guidelines/)  
 [Material Design Primer](https://guides.codepath.com/android/material-design-primer)  
 [Design Support Library Setup](https://guides.codepath.com/android/Design-Support-Library)  
-[Styles and Inheritance](http://kevinpelgrims.com/blog/2012/06/25/android-development-tips-style-inheritance/)
+[Styles and Inheritance](http://kevinpelgrims.com/blog/2012/06/25/android-development-tips-style-inheritance/)  
+[Material Design - Tutorial](http://www.androidhive.info/2015/04/android-getting-started-with-material-design/)
 #### CardView
 [Getting Started with CardView and RecyclerView on Android](https://code.tutsplus.com/tutorials/getting-started-with-recyclerview-and-cardview-on-android--cms-23465) - Create lists and cards with material design (TutsPlus)  
 [Working With CardView and Recycler View](http://www.androidhive.info/2016/05/android-working-with-card-view-and-recycler-view/) - Create lists and cards with material design (AndroidHive)  
